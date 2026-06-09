@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v3.5.0
+FROM docker.io/victoriametrics/operator:v0.68.5
