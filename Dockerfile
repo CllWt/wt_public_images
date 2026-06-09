@@ -1,1 +1,1 @@
-FROM docker.io/victoriametrics/operator:v0.68.5
+FROM registry.k8s.io/sig-storage/csi-provisioner:v6.2.0
