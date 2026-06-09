@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-snapshotter:v8.5.0
+FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.17.0
