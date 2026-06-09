@@ -1,1 +1,1 @@
-FROM quay.io/csiaddons/k8s-sidecar:v0.14.0
+FROM docker.io/rook/ceph:v1.20.0
