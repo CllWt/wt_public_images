@@ -1,1 +1,1 @@
-FROM victoriametrics/vmstorage:v1.144.0-cluster
+FROM victoriametrics/vmselect:v1.144.0-cluster
