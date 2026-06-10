@@ -1,1 +1,1 @@
-FROM quay.io/ceph/ceph:v20.2.1
+FROM victoriametrics/vmstorage:v1.144.0-cluster
