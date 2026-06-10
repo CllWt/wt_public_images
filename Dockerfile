@@ -1,1 +1,1 @@
-FROM docker.io/rook/ceph:v1.20.0
+FROM quay.io/ceph/ceph:v20.2.1
