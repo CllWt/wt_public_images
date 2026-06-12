@@ -1,1 +1,1 @@
-FROM victoriametrics/vmagent:v1.144.0
+FROM victoriametrics/vmalert:v1.144.0
